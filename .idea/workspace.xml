@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f8fccca-b08e-44ae-a438-6e58c2aa8fbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Swim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Walk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/impl/Bat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/impl/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/impl/Dolphin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/impl/Dove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/impl/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/impl/FliyngFish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/impl/Shark.java" afterDir="false" />
-    </list>
+    <list default="true" id="2f8fccca-b08e-44ae-a438-6e58c2aa8fbb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
